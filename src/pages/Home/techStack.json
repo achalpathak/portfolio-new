@@ -1,0 +1,76 @@
+{
+  "Programming": [
+    {
+      "name": "Python",
+      "icon_path": "python.svg"
+    },
+    {
+      "name": "Django",
+      "icon_path": "django.svg"
+    },
+    {
+      "name": "Go",
+      "icon_path": "go.svg"
+    }
+  ],
+  "Backend": [
+    {
+      "name": "MySQL",
+      "icon_path": "mysql.svg"
+    },
+    {
+      "name": "Redis",
+      "icon_path": "redis.svg"
+    },
+    {
+      "name": "RabbitMQ",
+      "icon_path": "rabbitmq.svg"
+    },
+    {
+      "name": "MongoDB",
+      "icon_path": "mongodb.svg"
+    }
+  ],
+  "Frontend": [
+    {
+      "name": "ReactJS",
+      "icon_path": "reactjs.svg"
+    },
+    {
+      "name": "NextJS",
+      "icon_path": "nextjs.svg"
+    },
+    {
+      "name": "Tailwind",
+      "icon_path": "tailwindcss.svg"
+    }
+  ],
+  "DevOps": [
+    {
+      "name": "Nginx",
+      "icon_path": "nginx.svg"
+    },
+    {
+      "name": "Docker",
+      "icon_path": "docker.svg"
+    },
+    {
+      "name": "Jenkins",
+      "icon_path": "jenkins.svg"
+    },
+    {
+      "name": "Kubernetes",
+      "icon_path": "k8s.svg"
+    }
+  ],
+  "Other": [
+    {
+      "name": "AWS",
+      "icon_path": "aws.svg"
+    },
+    {
+      "name": "NeoVim",
+      "icon_path": "neovim.svg"
+    }
+  ]
+}
